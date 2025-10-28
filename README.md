@@ -20,8 +20,6 @@ analyze current and voltage waveforms
 
 Validate converter suitability for renewable energy and electric vehicle powertrain applications
 
-analyze current and voltage waveforms
-
 Methodology:
 
 1. Software Tools Used
