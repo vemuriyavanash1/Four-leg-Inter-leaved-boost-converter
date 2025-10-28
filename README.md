@@ -18,7 +18,7 @@ reduce input/output current ripple and minimize current stress
 
 analyze current and voltage waveforms
 
-o validate converter suitability for renewable energy and electric vehicle powertrain applications
+Validate converter suitability for renewable energy and electric vehicle powertrain applications
 
 analyze current and voltage waveforms
 
@@ -26,9 +26,9 @@ Methodology:
 
 1. Software Tools Used
 
-LTspice – For detailed circuit-level simulation of switching devices, component stresses, and waveform analysis.
+LTspice – For detailed circuit-level simulation of switching devices, and waveform analysis.
 
-MATLAB/Simulink – For system-level modeling of converter control, current sharing, and harmonic analysis.
+MATLAB/Simulink – For system-level modeling of converter control, current sharing analysis.
 
 2. Stages in the Circuit
 
@@ -91,10 +91,6 @@ Output current:
 Inductor currents:
 
 <img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/c3a9a6fb-d2ba-4cbc-bcc7-33f8f190a6eb" />
-
-Output current:
-
-<img width="1914" height="883" alt="image" src="https://github.com/user-attachments/assets/8db03e7b-67fa-4bb1-8b44-46d1cc3dc601" />
 
 Simulation results:
 
